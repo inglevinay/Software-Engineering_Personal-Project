@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.deps.json
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.dll
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.pdb
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.dll
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\refint\MementoDesignPattern.dll
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.pdb
+C:\Users\ASUS\source\repos\MementoDesignPattern\MementoDesignPattern\obj\Debug\net6.0\ref\MementoDesignPattern.dll
